@@ -1,0 +1,10 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+
+#    when profile is qa then this will  be active
+
+build:
+  version: 2.0.0
+
